@@ -1,0 +1,38 @@
+div{
+    width: 350px;
+    height: 450px;
+    border-radius: 5px;
+    margin-left: 500px;
+    margin-top: 90px;
+    border: 0.5px solid #808080;
+    padding: 10px;
+    box-shadow: 0px 1px 14px;
+    
+}
+img{
+    width: 50%;
+    margin-left: 75px;
+}
+h2{
+    text-align: center;
+    margin-top: -14px;
+}
+.text1{
+    text-align: center;
+    margin-top: -12px;
+}
+a{
+    text-decoration: none;
+}
+header{
+    margin-top: 80px;
+    
+}
+button{
+    background-color: blue;
+    margin-left: 175px;
+    width: 64px;
+    height: 35px;
+    color: white;
+    border-radius: 5px;
+}
